@@ -26,7 +26,7 @@ function App() {
   // console.log(password);
 
   return (
-    <div className="App">
+    <div className="App app">
       <form onSubmit={handleFormSubmit}>
         <h2>Iniciar Sesión</h2>
         <label htmlFor="">
